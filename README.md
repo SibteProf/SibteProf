@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://sibtehussain.com">
-    <img src="https://img.shields.io/badge/Website-2EE6A6?style=for-the-badge&logo=googlechrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/Website-24292F?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sibtehussain/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
