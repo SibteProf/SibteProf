@@ -3,7 +3,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);Building+at+Visionixity;NestJS+%7C+TanStack+Start+%7C+MongoDB;Freelance+Developer+%40+Upwork" alt="Typing SVG" />
 </p>
-
+<p align="center">
+  <a href="https://sibtehussain.com">
+    <img src="https://img.shields.io/badge/Website-2EE6A6?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/sibtehussain/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sibte566@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/sibtehussain/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
